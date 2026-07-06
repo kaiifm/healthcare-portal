@@ -105,11 +105,11 @@ export default function Footer() {
   <p>
     © 2026 All Rights Reserved — Built & Designed by{" "}
     <a
-      href="https://github.com/kaif69z"
+      href="https://github.com/kaiifm"
       target="_blank"
       rel="noopener noreferrer"
     >
-      @kaif69z
+      @kaiifm
     </a>
   </p>
 </div>
