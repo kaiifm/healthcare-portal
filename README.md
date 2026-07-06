@@ -35,7 +35,7 @@ npm run dev
 
 
 ## 🌐 Live Demo
-👉 https://kaif69z.github.io/healthcare-portal/
+👉  https://kaiifm.github.io/healthcare-portal/
 
 
 ## 📸 Screenshots
